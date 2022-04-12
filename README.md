@@ -9,5 +9,5 @@ Microservicio con springboot que captura una palabra (va a ser consumido por otr
 
 # Para entrar a rabbit
 
-user -> guest
-pass -> guest
+# user -> guest
+# pass -> guest
