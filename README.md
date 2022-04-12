@@ -11,3 +11,6 @@ Microservicio con springboot que captura una palabra (va a ser consumido por otr
 
 # user -> guest
 # pass -> guest
+
+
+http://54.225.14.76:8080/usuarios/listarUsuarios
